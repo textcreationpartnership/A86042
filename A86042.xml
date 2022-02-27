@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The glory of this kingdome: or A discourse by way of conference and arguments, of the happinesse and successe of former Parliaments. With some observations upon the proceedings of this present Parliament.</title>
+            <author>May, Thomas, 1595-1650.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86042</idno>
+            <idno type="STC">Wing G884</idno>
+            <idno type="STC">Thomason E92_2</idno>
+            <idno type="STC">ESTC R5838</idno>
+            <idno type="EEBO-CITATION">99872906</idno>
+            <idno type="PROQUEST">99872906</idno>
+            <idno type="VID">155751</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86042)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155751)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E92[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The glory of this kingdome: or A discourse by way of conference and arguments, of the happinesse and successe of former Parliaments. With some observations upon the proceedings of this present Parliament.</title>
+                  <author>May, Thomas, 1595-1650.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.R.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Thomas May.</note>
+                  <note>A shorter version of: A discourse concerning the successe of former Parliaments.</note>
+                  <note>Annotation on Thomason copy: The "3" in the imprint date is crossed out; March. 6"; "1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155751:1"/>
+            <pb facs="tcp:155751:1" rendition="simple:additions"/>
+            <p>THE GLORY OF THIS KINGDOME: OR A DISCOVRSE BY WAY OF CONFERENCE AND ARGUMENTS, OF THE HAPPI<g ref="char:EOLhyphen"/>NESSE AND SUCCESSE OF FORMER <hi>PARLIAMENTS.</hi>
+            </p>
+            <p>WITH SOME OBSERVATI<g ref="char:EOLhyphen"/>ONS UPON THE PROCEEDINGS OF THIS PRESENT PARLIAMENT.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. R.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155751:2"/>
+            <pb facs="tcp:155751:2"/>
+            <head>THE GLORY OF THIS <hi>KINGDOME.</hi>
+            </head>
+            <opener>
+               <salute>SIR</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have according to my ſmall abillity, and the the ſhortneſſe of time fulfilled your command, in ſending to y<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u this briefe and plaine diſcourſe, concerning the ancient opinions and eſteeme of Engliſh Parliaments, for that was all that you deſired; without any reflect<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on upon the pro<g ref="char:EOLhyphen"/>ceedings of this preſent Parliament: accept it only as a plaine peece of common ta<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke which I would have delivered, had I beene pre<g ref="char:EOLhyphen"/>ſent with you; ſuch diſcourſes had no neede of Rhetoricke.</p>
+            <p>The Conſtitution of our Engliſh Monarchy, is by wiſe men e<g ref="char:EOLhyphen"/>ſteemed one of the beſt in Europe, as well for the ſtrength and honour of the Prince, as the ſecurity and freedom of the People; and the Baſis on which both are ſounded, is the conveniency of that Councell the high Court of Parliament.</p>
+            <p>Without which, neither can the Prince enjoy that Honour and Felicity, which <hi>Phillip de Commines,</hi> a forrainer ſo much admires where he de ivers what advantages the Kings of <hi>England</hi> have by that repreſentative body of their People; by whoſe aſſiſtance in any action they can neither want meanes, or looſe reputation, nor
+<pb facs="tcp:155751:3"/>
+on the other ſide, can the People have any poſſibility of pleading their owne Rights and Liberties; For in the interim betweene Parliaments, the People are too ſcattered and confuſed a Body to appeare it vindication of their proper Intereſts; and by too long abſence of ſuch aſſemb ies they would looſe all, for (as <hi>Iunius</hi> ob<g ref="char:EOLhyphen"/>ſerves) <hi>Populus authoritatem ſuam tante non utendo amittit, ſic plerumque accidit ut quod omnes curare tenentur, curet nemo quod omnibus Comiſſam eſt, nemo ſibi commendatum putet.</hi>
+            </p>
+            <p>The Peop<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſencib<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y looſe their power for want of uſeing it, for ſo it happens, that what all ſhould looke after no man does, what is Committed to all, no man thinks his owne cha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g.</p>
+            <p>And in that interim it happens, thoſe <hi>Optimates Regni</hi> (as he ſpeakes) who under the Prince are entruſted with Government, meaneing Counſellours, Iudges, and other great Magiſtrates, either through feare, flatterie or private Corruption, doe after betray the Peoples R<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ghts to the Prince.</p>
+            <p>The ſtate of government ſtanding thus. If diſtempered times Continnue, as they doe, (as our Chronicles have ſhewed ſome) whereby diſſention betwene King and People, &amp; the Kingdomes ruine is endangered, it doth not prove that the Eng<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſh goverment is not the beſt, as that the beſt Government may be abuſed for in every Monarc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y how limmited ſoever, the Pr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce his perſon is inveſted with ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e much Majeſty, that it would ſeeme a mockerie in State, if there were not conſiderab e power entruſted into his hands, yea ſomuch as that if he be bad or weak he may not endan<g ref="char:EOLhyphen"/>ger the Ruine of the Kingdome, ſo neceſſa y is it for all Humane Ordinances how wiſe ſoever, to leave ſomewhat to chance, and to have alwayes need of Recourſe to God for his aſſiſting and curing providence.</p>
+            <p>And though the Kingdome of England by vertue of the Go<g ref="char:EOLhyphen"/>vernement thereof, wilbe as hardly brought into confuſion as any Europe, yet there is no warrant aga<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſt the Probability of it, for it was ever heretofore ſeen that our Parliaments were rather ſtrength and advantage to an Honourable and a wiſe Prince, then a reme<g ref="char:EOLhyphen"/>dy againſt a bad or weake one, or if we change the expreſſion they were rather an excellent diet to preſerve a good Reign in ſtrength, then Phyſicke to Cure a bad one, and therefore have ben asmuch
+<pb facs="tcp:155751:3"/>
+Loved by ſound healthy Princes, as loathed by them that were out of temper, the latter having thought them depreſſion of their dig<g ref="char:EOLhyphen"/>n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty, as the former have eſteemed them an advantage to their ſtrength ſo that in ſuch times onely the true convenience of that great Councell have beene perceived by England, and admired by Forraigne Authors, in other times it was that thoſe witty com<g ref="char:EOLhyphen"/>plaints have beene in faſhion, as Sir <hi>Robert Cotton</hi> ſpeakes of a bad time, that Princes in Parliaments are leſſe then they ſhould be, and Subjects greater but on the contrary that they have beene an advantage to Kings, the conſtant <hi>Seires</hi> of our Hiſtorie will ſhew.</p>
+            <p n="1">1 Firſt by thoſe great Atcheivements which they have enabled our wiſe Kings to make, who were moſt conſtant in calling them and conſenting to them.</p>
+            <p n="2">2 Secondly noe one Prince was ever yet happie without the uſe of them.</p>
+            <p>It may therefore ſeeme A parrodox, that any Prince ſhould diſafect that which is ſo High an advantage to him, and a great wonder that ſome Kings of England not vitious in their diſpoſiti<g ref="char:EOLhyphen"/>ons, nor very ſhallow in their underſtandings, have ſo much kicked againſt Parliaments, and that ſuch have been before, we ſhew what reaſons may be of it: ſee the chartecters of ſome Princes, whoſe ſucceſſe and fortunes are knowne to all that reade the Hiſtories, as they are de<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ivered by <hi>Pollidor Virgill</hi> who in his ſixteenth Booke ſpeakes thus of <hi>Henry</hi> the Third, <hi>fuit ingenio, mitti, animo magis nobili quam magno cultor religionis adverſus inopes liberalis;</hi> he was of a Gent<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Nature, a minde rather Noble then great.</p>
+            <p>In his 18. Booke, thus of <hi>Edward</hi> the Second, <hi>fuit illi, natura bona in g<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nium, mitte quem primo juvneeli, errore actum in leviora vitia incidentem tandem in graviora malorum conſuitudiues et con<g ref="char:EOLhyphen"/>ſilia traxerunt, non decreant illi animi vires ſi repudiatis malis ſua ſoribus illas juſte exercuiſſet.</hi>
+            </p>
+            <p>He was of a good nature and mild diſpoſition, who firſt by the errors and raſhneſſe of Youth fading into ſmall faults, was after<g ref="char:EOLhyphen"/>wards drawne into greater by the ſociety and councells of wick<g ref="char:EOLhyphen"/>ed men; there was not wanting in him ſtrength of minde, if (a<g ref="char:EOLhyphen"/>voyding evill councell) he could have made a juſt uſe of it.</p>
+            <p>
+               <pb facs="tcp:155751:4"/>And in his 20th Booke, thus of <hi>Richard</hi> the Second, <hi>fuit in illo ſpirritus non villis quem conſociorum improbitas et inſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſitas extinxit</hi> He was of a ſpirit not <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow nor baſe, but ſuch as was quite de<g ref="char:EOLhyphen"/>ſtroyed by the wickedneſſe and folly of unhapy conſociates.</p>
+            <p>A reaſon of this accident may be, that their ſoules thought not viſions have not been ſo large, nor their affections ſo publique, as their great calling hath required; but being to much mancipaid to private fancies and unhapy Favourites: and long flattered in thoſe affections, under the ſpecious name of firmeneſſe and friend<g ref="char:EOLhyphen"/>ſhip (not being told of that the adequate object of a Prince, his love ſhould be to the whole Peo le. And that they who receive publique honour ſhould returne as publique love and care, they have too much neglected the Kingdome, and grow at laſt afraid to looke their faces in ſo true a glaſſe as a Parliament; And fly<g ref="char:EOLhyphen"/>ing the remedy increaſe the diſeaſe, till it come to that unhapy height, that rather then acknowledg any unjuſt action, they ſtrive for an unjuſt power to give it countenance; and ſo by a long con<g ref="char:EOLhyphen"/>ſequence become hardly reconcilable to a Parliamentary way.</p>
+            <p>Such Princes (though it may ſeeme ſtrange) have bin a greater afliction to this Kingdome.</p>
+            <p n="1">1. They have not beene ſo conſcious to themſelves of great crymes, and therefore not ſo apt to be ſenſible of what they have beene accidentally made to do againſt their People by evill Coun<g ref="char:EOLhyphen"/>ſell, whoſe poyſon, themſelves did not perfectly underſtand: And therefore they are more prone to ſuſpect the People as unkind to them, then themſelves as faulty, and ſo the more hardly drawne to prevent their Actions, or meete hartily with a Parliament as from the People, who Naturally looke with honour upon the Prince, and when they finde none or few perſonall vices in him (nor con<g ref="char:EOLhyphen"/>ſidering that the true vertue of Princes have a larger evtent then thoſe of private men) will more hardly be brought to thinke (though them ſelves feele and ſuffer for it) that hee is faulty there<g ref="char:EOLhyphen"/>fore ſome times (which would hardly bee beleeved if experience had not ſhewed it the People (have beene ſo raſh as that to mainetaine for the King an uniuſt prerogative, which themſelves underſtand not they have to their ruine and the Kings too (as it hath after prooved,) deſerted that great Counſell whome them<g ref="char:EOLhyphen"/>ſelves
+<pb facs="tcp:155751:4"/>
+have choſen, and by whome they could be preſerved in their iuſt Rights, untill to late for the Kings happineſſe, and there<g ref="char:EOLhyphen"/>fore they have ſeene and Repented their great folly.</p>
+            <p>Such a deſertion was ſo ſadly ſeene at the end of that Parliament of <hi>Edward</hi> the 2. where the two Spencers were baniſhed and the Tragicall effects that followed, when the King found ſo great a party both of Clergie and Laytie, as enabled him to call home againe his baniſhed favourits, and proved fatall to ſo many Parliamentary Lords, as the like execution of Nobillity had never before beene ſeene in England, over whoſe graves the People wept when it was too late, and proceed, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urther in their revenge, then became the duty and Alleagiance of Subjects.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
